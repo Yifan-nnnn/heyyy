@@ -11,3 +11,6 @@
 - [EX01_05_Caesar Cipher Encode and Decode](EX01_05_Caesar_Cipher_Encode_and_Decode.ipynb)
 - [EX01_06_簡易購物車](EX01_06_簡易購物車.ipynb)
 - [EX01_07_美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
+
+### 02 
+- [EX02_01_My_Chatbot](EX02_01_My_Chatbot.ipynb)

@@ -12,5 +12,5 @@
 - [EX01_06_簡易購物車](EX01_06_簡易購物車.ipynb)
 - [EX01_07_美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
 
-### 02 
+### 02 Web Crawler
 - [EX02_01_My_Chatbot](EX02_01_My_Chatbot.ipynb)

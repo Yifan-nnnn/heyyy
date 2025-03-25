@@ -17,4 +17,4 @@
 - [EX02_02_高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
 - [EX02_03_Yahoo新聞儲存](EX02_03_Yahoo新聞儲存.ipynb)
 - [EX02_04_Download_Pokemon_Images](EX02_04_Download_Pokemon_Images.ipynb)
-- [EX_02_05 PTT Gossiping](EX_02_05_PTT_Gossiping.ipynb)
+- [EX_02_05_PTT_Gossiping](EX_02_05_PTT_Gossiping.ipynb)

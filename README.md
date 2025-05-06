@@ -30,3 +30,4 @@
 - [EX03_06_出生人口數](EX03_06_出生人口數.ipynb)
 - [EX03_07_Tips](EX03_07_Tips.ipynb)
 - [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
+- [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)

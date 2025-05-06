@@ -29,3 +29,4 @@
 - [EX03_05_台灣股票市場個股每日成交資訊](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
 - [EX03_06_出生人口數](EX03_06_出生人口數.ipynb)
 - [EX03_07_Tips](EX03_07_Tips.ipynb)
+- [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)

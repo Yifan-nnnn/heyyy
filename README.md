@@ -35,3 +35,6 @@
 - [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
 - [EX05_03_Reply_Multi_type_Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05_04_Reply_Tamplate_Message](EX05_04_Reply_Tamplate_Message.ipynb)
+
+### Homework
+- [HW(1/2)](HW02.ipynb)

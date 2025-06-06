@@ -36,6 +36,7 @@
 - [EX04_03_客戶分群](EX04_03_客戶分群.ipynb)
 - [EX04_04_加州房價](EX04_04_加州房價.ipynb)
 - [EX04_05_辨識鳶尾花](EX04_05_辨識鳶尾花.ipynb)
+- [EX04_06_ET_Today_新聞標題分類](EX04_06_ET_Today_新聞標題分類.ipynb)
 
 ### 05 Web API
 - [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
